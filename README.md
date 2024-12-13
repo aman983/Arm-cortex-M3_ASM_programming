@@ -1,2 +1,2 @@
 # Arm-cortex-M3_ASM_programming
-Bare Metal Programming of ARM cortex M3 emulated on QEMU
+Programming a Baremetal Schedular for ARM cortex M3 processor in Assembly
